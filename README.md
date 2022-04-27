@@ -20,6 +20,6 @@ You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h
 Pronouns: she/her ♀️       
 ⚡ Fun fact: ... You can find me riding around Chicago on my bike taking photos on most weekends 🚴‍♀️   
 ### ❄️ Brrrr, Lake Michigan    
-![Image](iceLakeMich.jpg) 
+![Image](iceLakeMich.jpg) ![Image](seagullSky.jpg)
 ### 🪴 Garfield Conservatory
 ![Image](buttonFern.jpg)
