@@ -3,7 +3,7 @@
 
 <div align="left">
 My name is Joanne de Leon - although most call me Jo or Jojo. I'm a recent graduate of Flatiron School's Data Science program. Currently on the hunt for a job, I've been keeping my brain engaged learning new skills and honing the old.      
-<br />  
+<br />    
   
 📫 How to reach me: trudell1977@gmail.com    
 You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
