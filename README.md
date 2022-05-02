@@ -22,4 +22,4 @@ Pronouns: she/her ♀️
 ### ❄️ Brrrr, Lake Michigan    
 ![Image](iceLakeMich.jpg) ![Image](seagullSky.jpg)
 ### 🪴 Garfield Conservatory
-![Image](buttonFern.jpg)
+![Image](buttonFern.jpg) ![Image](fern.jpg)
