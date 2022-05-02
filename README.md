@@ -8,16 +8,16 @@ My name is Joanne de Leon - although most call me Jo or Jojo. I'm a recent gradu
 📫 How to reach me: trudell1977@gmail.com    
 You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;     
+Pronouns: she/her ♀️       
 
 🔭 I’m currently working on AWS Cloud Practitioner Certification    
 🌱 I’m currently learning Tableau   
 
-💬 Ask me about ... my love of cooking and baking! 👩‍🍳  
+💬 Ask me about ... __Natural Language Processing__ OR ... my love of cooking and baking! 👩‍🍳  
     
 ![Image](3SMpies.jpg) ![Image](focaccia.jpg) ![Image](miniTarts.jpg)   
      
 
-Pronouns: she/her ♀️       
 ⚡ Fun fact: ... You can find me riding around Chicago on my bike taking photos on most weekends 🚴‍♀️   
 ### ❄️ Brrrr, Lake Michigan    
 ![Image](iceLakeMich.jpg) ![Image](seagullSky.jpg)
